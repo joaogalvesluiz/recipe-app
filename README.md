@@ -1,6 +1,8 @@
 # Recipe App 
 ## See the bests recipes in the world
 
+check on : https://app-recipe.netlify.app/
+
 ### Features Used - With the following features
 
    * List of Recipes
@@ -19,7 +21,7 @@ The following tools were used in the construction of the project:
 
 
 ### Pictures 
-  Desktop View
+
   <img alt="RecipeApp" title="#RecipeApp" src="./images/recipe-app.png" />
   <br>
 
