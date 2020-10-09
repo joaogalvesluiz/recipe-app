@@ -3,7 +3,7 @@
 
 check on : https://app-recipe.netlify.app/
 
-### Features Used - With the following features
+### Features Used
 
    * List of Recipes
    * Recipe info on Click
